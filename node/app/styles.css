@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(40, 17, 13);
+}
+
+bdo {
+    /* color: blue; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+}
+
+strong {
+    color: darkmagenta;
+}
+
+p {
+    border: 2px solid powderblue;
+    /* padding: 30px; */
+    margin: 50px;
+}
+abbr {
+    font-size: xx-large;
+    color: aliceblue;
+}
+
+a:link{
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
